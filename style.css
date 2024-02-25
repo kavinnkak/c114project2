@@ -1,0 +1,18 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+.btn-info:hover
+{
+    background-color: purple;
+}
+
+canvas{
+    background-color: aliceblue;
+    
+    border-color: black;
+}
+
+
+
